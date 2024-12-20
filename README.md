@@ -1,7 +1,5 @@
 # learn-pytorch from pytorch.org
 
-[![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8/project/561d1039-0dfa-49ec-8a48-470bbb013bb1.svg)](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8/project/561d1039-0dfa-49ec-8a48-470bbb013bb1)
-
 [![wakatime](https://wakatime.com/badge/github/copilot-id/learn-pytorch.svg)](https://wakatime.com/badge/github/copilot-id/learn-pytorch)
 
 ------------------------------------------
