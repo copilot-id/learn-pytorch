@@ -9,13 +9,8 @@
 Quickstart
 ==========
 
-Working with data
------------------
-Creating Models
----------------
-Optimizing the Model Parameters
--------------------------------
-Saving Models
--------------
-Loading Models
---------------
+- Working with data
+- Creating Models
+- Optimizing the Model Parameters
+- Saving Models
+- Loading Models
