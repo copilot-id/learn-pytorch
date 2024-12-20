@@ -6,11 +6,9 @@
 
 ------------------------------------------
 
-00. Learn the Basics
-====================
+## Learn the Basics
 
-0001. Quickstart
-----------------
+### Quickstart
 
 You can quickly get started by following the [Quickstart guide](https://github.com/copilot-id/learn-pytorch/blob/main/00.%20Learn%20the%20Basics/01.%20Quickstart.ipynb).
 
